@@ -18,7 +18,7 @@
 - Склоненный с репозитория [https://github.com/MaksymSemenykhin/git-course-task/tree/task%234](https://github.com/MaksymSemenykhin/git-course-task/tree/task%234)
 - Скрипта  для работы на ubuntu сервере
 - Не использовать облачные git сервисы
-- Не использовать облачные teamcity, jenkins... сервисы
+- Не использовать teamcity, jenkins...
 - В README файле описано детали настройки и flow с этим репозиторием
 - Репозиторий может содержать доп скрипты гит репозитория 
 - Доступ на сервер для ключа god.pub, noob.pub, pro.pub без пароля
